@@ -2,6 +2,8 @@
 
 Thanks for trying out Contacter! In order to download and use it, follow these steps:
 
+- Clone this repository
+- CD into it, run "npm install" and then run "npm run build". You should see a new folder created with the name "build"
 - Copy the 'build' folder onto your computer
 - Open up any chromium browser, and type in chrome://extensions
 - Tick 'developer mode', click 'Load unpacked" and select the build folder.
