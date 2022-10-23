@@ -1,5 +1,7 @@
 # Getting Started with Contacter
 
+Contacter is a Chrome extension that makes it easier to manage your contacts and emails. Add a contact, and click on them to copy their email.
+
 Thanks for trying out Contacter! In order to download and use it, follow these steps:
 
 - Clone this repository
