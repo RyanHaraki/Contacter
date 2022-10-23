@@ -14,6 +14,6 @@ Thanks for trying out Contacter! In order to download and use it, follow these s
 ### Feature and bug requests
 
 Please create a pull request with your feature/bug request down below.
-- [] Add edit feature
-- [] Add notification when email copied
-- [] Add quick onboarding guide
+- [ ] Add edit feature
+- [ ] Add notification when email copied
+- [ ] Add quick onboarding guide
