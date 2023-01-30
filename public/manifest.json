@@ -2,28 +2,17 @@
   "short_name": "Contacter Extension",
   "name": "Contacter | Store and copy your contacts",
   "description": "Use contacter to store contacts and easily copy their emails",
+  "version": "1.0.0",
   "manifest_version": 3,
   "action": {
     "default_popup": "index.html",
     "default_title": "Open the popup"
   },
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
-  ],
+  "icons": {
+    "16": "logo192.png",
+    "32": "logo192.png",
+    "64": "logo192.png"
+  },
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
